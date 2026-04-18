@@ -4,7 +4,6 @@
 set nocompatible
 filetype plugin indent on
 syntax enable
-colorscheme habamax
 set cursorline
 set showcmd
 set wildmenu
