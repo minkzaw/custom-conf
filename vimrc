@@ -18,3 +18,10 @@ set incsearch
 set ignorecase
 set smartcase
 
+" -----------------------------------------------------------------------------
+" INDENTATION DEFAULTS
+" -----------------------------------------------------------------------------
+set tabstop=4
+set shiftwidth=4
+set expandtab
+
