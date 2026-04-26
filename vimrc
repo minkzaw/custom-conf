@@ -4,7 +4,8 @@
 set nocompatible
 filetype plugin indent on
 syntax enable
-set cursorline
+"colorscheme habamax
+"set cursorline
 set showcmd
 set wildmenu
 set wildmode=longest:full,full
@@ -14,7 +15,7 @@ set number
 set relativenumber
 set hlsearch
 set incsearch
-set ignorecase
+"set ignorecase
 set smartcase
 
 " -----------------------------------------------------------------------------
